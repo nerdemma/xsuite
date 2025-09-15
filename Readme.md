@@ -10,6 +10,6 @@ Xrun
 lanzador y buscador de aplicaciones, cuenta con un historial de busqueda, ejecucion de activades. 
 Es practico, intuitivo y es actualizado constantemente. 
 
-Caluladora. 
+Caluladora. (En desarrollo)
 Del tipo estandar, realiza calculos aritmeticos, dispone de memoria para los resultados y mediante una API puede poner en marcha calculos de divisas. 
 
